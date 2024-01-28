@@ -5,19 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50b65f8a-6a3f-421f-8ece-bc121b43a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ref/BigData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/InitData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/InitMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/Methood1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/Methood2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/NullMain4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/oop1/MusicPlayerMain3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,42 +30,43 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2bOLCh4sVZvrUpceQ9sTUtj1EPk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="oop1" />
       <recent name="ref.ex" />
       <recent name="ref" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ProductOrderMain3">
-    <configuration name="NullMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.NullMain2" />
+  <component name="RunManager" selected="Application.MusicPlayerMain3">
+    <configuration name="MusicPlayerMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain1" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NullMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ref.NullMain3" />
+    <configuration name="MusicPlayerMain3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oop1.MusicPlayerMain3" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ref.*" />
+          <option name="PATTERN" value="oop1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MusicPlayerMain3" />
+        <item itemvalue="Application.MusicPlayerMain1" />
         <item itemvalue="Application.ProductOrderMain3" />
         <item itemvalue="Application.ProductOrderMain2" />
         <item itemvalue="Application.NullMain4" />
-        <item itemvalue="Application.NullMain3" />
-        <item itemvalue="Application.NullMain2" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +144,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1706081052993</updated>
-      <workItem from="1706081053990" duration="14561000" />
+      <workItem from="1706081053990" duration="14725000" />
+      <workItem from="1706452332674" duration="1291000" />
     </task>
     <servers />
   </component>
