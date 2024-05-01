@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package poly.ex.pay0;
 
 public class PayMain0 {
@@ -21,7 +20,4 @@ public class PayMain0 {
         int amount3 = 15000;
         payService.processPay(payOption3, amount3);
     }
-=======
-package poly.ex.pay0;public class PayMain0 {
->>>>>>> a9b1a69cd535fa5c0cad28b44c5b7d0bad91ae4c
 }

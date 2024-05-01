@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package poly.ex.pay0;
 
 public class NaverPay {
@@ -8,7 +7,4 @@ public class NaverPay {
         System.out.println(amount + "원 결제를 시도합니다.");
         return true;
     }
-=======
-package poly.ex.pay0;public class NaverPay {
->>>>>>> a9b1a69cd535fa5c0cad28b44c5b7d0bad91ae4c
 }

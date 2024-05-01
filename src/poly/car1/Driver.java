@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package poly.car1;
 
 public class Driver {
@@ -16,7 +15,4 @@ public class Driver {
         car.pressEngine();
         car.offEngine();
     }
-=======
-package poly.car1;public class Driver {
->>>>>>> a9b1a69cd535fa5c0cad28b44c5b7d0bad91ae4c
 }

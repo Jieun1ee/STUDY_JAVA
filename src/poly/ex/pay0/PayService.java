@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package poly.ex.pay0;
 
 public class PayService {
@@ -23,7 +22,4 @@ public class PayService {
             System.out.println("결제가 실패했습니다.");
         }
     }
-=======
-package poly.ex.pay0;public interface PayService {
->>>>>>> a9b1a69cd535fa5c0cad28b44c5b7d0bad91ae4c
 }

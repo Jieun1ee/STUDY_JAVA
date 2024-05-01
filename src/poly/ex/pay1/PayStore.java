@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 package poly.ex.pay1;
 
 public abstract class PayStore {
@@ -13,7 +12,4 @@ public abstract class PayStore {
             return new DefaultPay();
         }
     }
-=======
-package poly.ex.pay1;public class PayStore {
->>>>>>> a9b1a69cd535fa5c0cad28b44c5b7d0bad91ae4c
 }

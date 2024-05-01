@@ -5,34 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50b65f8a-6a3f-421f-8ece-bc121b43a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/CarMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/K3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car0/Model3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/CarMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/K3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/Model3Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/car1/NewCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/KakaoPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/NaverPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/PayMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay0/PayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/DefaultPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/KakaoPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/NaverPay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/Pay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/sender/EmailSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/sender/FaceBookSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/sender/SendMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/sender/Sender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/poly/ex/sender/SmsSender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/car0/CarMain0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car0/CarMain0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/car0/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car0/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/car0/K3Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car0/K3Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/car0/Model3Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car0/Model3Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/car1/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car1/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/car1/CarMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car1/CarMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/car1/Model3Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car1/Model3Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/car1/NewCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/car1/NewCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/ex/pay1/PayMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayMain1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/ex/pay1/PayMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayMain2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/poly/ex/pay1/PayService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/poly/ex/pay1/PayService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,7 +170,7 @@
       <workItem from="1706452332674" duration="1893000" />
       <workItem from="1706514048796" duration="664000" />
       <workItem from="1706524651598" duration="42328000" />
-      <workItem from="1713165075683" duration="50064000" />
+      <workItem from="1713165075683" duration="50482000" />
     </task>
     <servers />
   </component>
