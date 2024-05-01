@@ -1,6 +1,10 @@
 package poly.ex.pay1;
 
+<<<<<<< HEAD
 public class PayMain1 {
+=======
+public class PayMain {
+>>>>>>> a9b1a69cd535fa5c0cad28b44c5b7d0bad91ae4c
 
     public static void main(String[] args) {
         PayService payService = new PayService();
