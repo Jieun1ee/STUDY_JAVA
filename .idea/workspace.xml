@@ -5,54 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50b65f8a-6a3f-421f-8ece-bc121b43a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/casting/Casting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casting/Casting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/casting/Casting3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOp1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/CondOp2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/IF1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/IF2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/IF3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/IF4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/IF5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/IF6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/Switch4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/CondOpEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/DistanceEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/EvenOddEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/ExchangeRateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/GradeSwitchEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/MoveRateEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cond/ex/ScoreEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Break3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Continue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/DoWhile2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/For1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/For2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/Nested1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/While2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/ForEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/NestedEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/loop/ex/WhileEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scope/Scope3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/Scanner3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ScannerWhile3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ChangeVarEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerEx5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scanner/ex/ScannerWhileEx4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -113,20 +81,20 @@
       <recent name="$PROJECT_DIR$/src/extends1/ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="scanner" />
       <recent name="scope" />
       <recent name="loop" />
       <recent name="cond.ex" />
       <recent name="cond" />
-      <recent name="poly.ex.pay1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Casting4">
-    <configuration name="Casting1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="casting.Casting1" />
+  <component name="RunManager" selected="Application.ScannerWhileEx3">
+    <configuration name="ChangeVarEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex.ChangeVarEx" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="casting.*" />
+          <option name="PATTERN" value="scanner.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="casting.Casting2" />
+    <configuration name="ScannerEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerEx4" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="casting.*" />
+          <option name="PATTERN" value="scanner.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="casting.Casting3" />
+    <configuration name="ScannerEx5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerEx5" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="casting.*" />
+          <option name="PATTERN" value="scanner.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Casting4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="casting.Casting4" />
+    <configuration name="ScannerWhileEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerWhileEx1" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="casting.*" />
+          <option name="PATTERN" value="scanner.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loop.ex.NestedEx2" />
+    <configuration name="ScannerWhileEx3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scanner.ex.ScannerWhileEx3" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loop.ex.*" />
+          <option name="PATTERN" value="scanner.ex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Casting4" />
-        <item itemvalue="Application.Casting3" />
-        <item itemvalue="Application.Casting2" />
-        <item itemvalue="Application.Casting1" />
-        <item itemvalue="Application.NestedEx2" />
+        <item itemvalue="Application.ScannerWhileEx3" />
+        <item itemvalue="Application.ScannerWhileEx1" />
+        <item itemvalue="Application.ScannerEx5" />
+        <item itemvalue="Application.ChangeVarEx" />
+        <item itemvalue="Application.ScannerEx4" />
       </list>
     </recent_temporary>
   </component>
@@ -208,7 +176,7 @@
       <workItem from="1706452332674" duration="1893000" />
       <workItem from="1706514048796" duration="664000" />
       <workItem from="1706524651598" duration="42328000" />
-      <workItem from="1713165075683" duration="82411000" />
+      <workItem from="1713165075683" duration="89439000" />
     </task>
     <servers />
   </component>
