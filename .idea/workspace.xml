@@ -5,25 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50b65f8a-6a3f-421f-8ece-bc121b43a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lang/LangMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/Child.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/ObjectMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/Parent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/EqualsMainV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/EqualsMainV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/UserV1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/UserV2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyExample1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/test/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/test/RectangleMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/ObjectPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/ToStringMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/ToStringMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/ImmutableAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/MemberMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/MemberMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/MemberV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/MemberV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/PrimitiveMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/RefMain1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/RefMain1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/RefMain1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/address/RefMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/change/ImmutableMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/change/ImmutableMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/change/ImmutableObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/change/MutableMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/change/MutableObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/test/ImmutableMyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/test/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/immutable/test/MyDateMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,20 +84,20 @@
       <recent name="$PROJECT_DIR$/src/extends1/ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.immutable.change" />
+      <recent name="lang.immutable.address" />
       <recent name="lang.object.poly" />
       <recent name="method.ex" />
       <recent name="overloading" />
-      <recent name="method" />
-      <recent name="array.ex" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RectangleMain">
-    <configuration name="EqualsMainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.object.equals.EqualsMainV1" />
+  <component name="RunManager" selected="Application.MyDateMain">
+    <configuration name="ImmutableMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.change.ImmutableMain1" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.object.equals.*" />
+          <option name="PATTERN" value="lang.immutable.change.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EqualsMainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.object.equals.EqualsMainV2" />
+    <configuration name="ImmutableMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.change.ImmutableMain2" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.object.equals.*" />
+          <option name="PATTERN" value="lang.immutable.change.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RectangleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.object.test.RectangleMain" />
+    <configuration name="MemberMainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.address.MemberMainV2" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.object.test.*" />
+          <option name="PATTERN" value="lang.immutable.address.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToStringMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.object.tostring.ToStringMain1" />
+    <configuration name="MutableMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.change.MutableMain" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.object.tostring.*" />
+          <option name="PATTERN" value="lang.immutable.change.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToStringMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.object.tostring.ToStringMain2" />
+    <configuration name="MyDateMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.immutable.test.MyDateMain" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.object.tostring.*" />
+          <option name="PATTERN" value="lang.immutable.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RectangleMain" />
-        <item itemvalue="Application.EqualsMainV2" />
-        <item itemvalue="Application.EqualsMainV1" />
-        <item itemvalue="Application.ToStringMain2" />
-        <item itemvalue="Application.ToStringMain1" />
+        <item itemvalue="Application.MyDateMain" />
+        <item itemvalue="Application.ImmutableMain2" />
+        <item itemvalue="Application.ImmutableMain1" />
+        <item itemvalue="Application.MutableMain" />
+        <item itemvalue="Application.MemberMainV2" />
       </list>
     </recent_temporary>
   </component>
@@ -179,7 +179,7 @@
       <workItem from="1706452332674" duration="1893000" />
       <workItem from="1706514048796" duration="664000" />
       <workItem from="1706524651598" duration="42328000" />
-      <workItem from="1713165075683" duration="123024000" />
+      <workItem from="1713165075683" duration="130440000" />
     </task>
     <servers />
   </component>
