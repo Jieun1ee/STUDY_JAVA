@@ -5,27 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50b65f8a-6a3f-421f-8ece-bc121b43a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/method/Method1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method1Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/Method2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodCasting2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodReturn2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/MethodValue3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx1Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx2Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx3Ref.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/method/ex/MethodEx4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overloading/Overloading1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overloading/Overloading2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/overloading/Overloading3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/LangMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/Child.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/ObjectMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/Parent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/EqualsMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/EqualsMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/UserV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/equals/UserV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyExample1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/poly/ObjectPolyExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/test/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/test/RectangleMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/ObjectPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/ToStringMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/object/tostring/ToStringMain2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,20 +84,20 @@
       <recent name="$PROJECT_DIR$/src/extends1/ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.object.poly" />
       <recent name="method.ex" />
       <recent name="overloading" />
       <recent name="method" />
       <recent name="array.ex" />
-      <recent name="array" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MethodEx3Ref">
-    <configuration name="MethodEx1Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx1Ref" />
+  <component name="RunManager" selected="Application.RectangleMain">
+    <configuration name="EqualsMainV1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.equals.EqualsMainV1" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.ex.*" />
+          <option name="PATTERN" value="lang.object.equals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx2" />
+    <configuration name="EqualsMainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.equals.EqualsMainV2" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.ex.*" />
+          <option name="PATTERN" value="lang.object.equals.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MethodEx3Ref" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="method.ex.MethodEx3Ref" />
+    <configuration name="RectangleMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.test.RectangleMain" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="method.ex.*" />
+          <option name="PATTERN" value="lang.object.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overloading.Overloading2" />
+    <configuration name="ToStringMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.tostring.ToStringMain1" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overloading.*" />
+          <option name="PATTERN" value="lang.object.tostring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Overloading3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="overloading.Overloading3" />
+    <configuration name="ToStringMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.object.tostring.ToStringMain2" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="overloading.*" />
+          <option name="PATTERN" value="lang.object.tostring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MethodEx3Ref" />
-        <item itemvalue="Application.MethodEx2" />
-        <item itemvalue="Application.MethodEx1Ref" />
-        <item itemvalue="Application.Overloading3" />
-        <item itemvalue="Application.Overloading2" />
+        <item itemvalue="Application.RectangleMain" />
+        <item itemvalue="Application.EqualsMainV2" />
+        <item itemvalue="Application.EqualsMainV1" />
+        <item itemvalue="Application.ToStringMain2" />
+        <item itemvalue="Application.ToStringMain1" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +179,7 @@
       <workItem from="1706452332674" duration="1893000" />
       <workItem from="1706514048796" duration="664000" />
       <workItem from="1706524651598" duration="42328000" />
-      <workItem from="1713165075683" duration="111421000" />
+      <workItem from="1713165075683" duration="123024000" />
     </task>
     <servers />
   </component>
