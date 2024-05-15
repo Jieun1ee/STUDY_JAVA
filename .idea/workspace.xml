@@ -5,38 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="50b65f8a-6a3f-421f-8ece-bc121b43a2cd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lang/string/CharArrayMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/StringBasicMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/StringConcatMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/LoopStringBuilderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/LoopStringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/StringBuilderMain1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/StringBuilderMain1_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/chaining/MethodChainingMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/chaining/MethodChainingMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/chaining/MethodChainingMain3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/chaining/ValueAdder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/equals/StringEqualsMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/equals/StringEqualsMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/immutable/StringImmutable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/immutable/StringImmutable2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringComparisonMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringInfoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringSearchMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringSplitJoinMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringUtilMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringUtilMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/clazz/ClassCreateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/clazz/ClassMetaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/clazz/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/math/MathMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/math/RandomMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/math/test/LottoGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/math/test/LottoGeneratorMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/system/SystemMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/AutoboxingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/AutoboxingMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerMethodMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerMethodMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerNullMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerNullMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/WrapperClassMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/WrapperUtilsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/WrapperVsPrimitive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,51 +56,52 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/jieun/STUDY/JAVA/Inflearn/src/poly/ex/pay1&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/jieun/STUDY/JAVA/Inflearn/src/lang/math",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="poly.ex.pay0" />
       <recent name="poly.ex.sender" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/lang/math" />
       <recent name="$PROJECT_DIR$/src/poly/ex/pay1" />
       <recent name="$PROJECT_DIR$/src/poly/ex4" />
       <recent name="$PROJECT_DIR$/src/extends1/overriding" />
       <recent name="$PROJECT_DIR$/src/extends1/ex3" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.wrapper.test" />
+      <recent name="lang.wrapper" />
       <recent name="lang.string.builder" />
       <recent name="lang.string.chaining" />
       <recent name="lang.string.method" />
-      <recent name="lang.string" />
-      <recent name="lang.immutable.test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestString11">
-    <configuration name="TestString10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString10" />
+  <component name="RunManager" selected="Application.LottoGeneratorMain">
+    <configuration name="LottoGeneratorMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.math.test.LottoGeneratorMain" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
+          <option name="PATTERN" value="lang.math.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString11" />
+    <configuration name="MathMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.math.MathMain" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
+          <option name="PATTERN" value="lang.math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString7" />
+    <configuration name="SystemMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.system.SystemMain" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
+          <option name="PATTERN" value="lang.system.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString8" />
+    <configuration name="WrapperTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest1" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
+          <option name="PATTERN" value="lang.wrapper.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestString9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.test.TestString9" />
+    <configuration name="WrapperTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.wrapper.test.WrapperTest2" />
       <module name="Inflearn" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.test.*" />
+          <option name="PATTERN" value="lang.wrapper.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -172,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestString11" />
-        <item itemvalue="Application.TestString10" />
-        <item itemvalue="Application.TestString9" />
-        <item itemvalue="Application.TestString8" />
-        <item itemvalue="Application.TestString7" />
+        <item itemvalue="Application.LottoGeneratorMain" />
+        <item itemvalue="Application.WrapperTest2" />
+        <item itemvalue="Application.WrapperTest1" />
+        <item itemvalue="Application.MathMain" />
+        <item itemvalue="Application.SystemMain" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +184,7 @@
       <workItem from="1706514048796" duration="664000" />
       <workItem from="1706524651598" duration="42328000" />
       <workItem from="1713165075683" duration="131807000" />
-      <workItem from="1715671695653" duration="15063000" />
+      <workItem from="1715671695653" duration="30846000" />
     </task>
     <servers />
   </component>
@@ -222,6 +213,11 @@
           <url>file://$PROJECT_DIR$/src/lang/string/method/StringChangeMain2.java</url>
           <line>2</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lang/wrapper/WrapperVsPrimitive.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
